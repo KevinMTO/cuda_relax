@@ -1,2 +1,2 @@
 # cuda_relax
-Set of functions in C++ and CUDA as brain teasers and o relax from the daily life.
+Set of functions in C++ and CUDA as brain teasers. A way to forget about daily life.
